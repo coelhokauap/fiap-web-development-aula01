@@ -1,0 +1,12 @@
+body {
+  background-color: cornsilk;
+}
+
+body p {
+  color: chocolate;
+  font-size: 45px;
+}
+
+p.outro {
+  color: crimson;
+}
