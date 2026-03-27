@@ -4,9 +4,24 @@ body {
 
 body p {
   color: chocolate;
-  font-size: 45px;
+  font-size: 20px;
 }
 
-p.outro {
+h1 {
   color: crimson;
+  font-size: 30px;
+}
+
+h2 {
+  color: rgb(138, 85, 95);
+  font-size: 25px;
+}
+
+span {
+  color: chocolate;
+  font-size: 35px;
+}
+
+ul li {
+  list-style-type: none;
 }
